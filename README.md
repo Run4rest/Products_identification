@@ -17,7 +17,7 @@ and develop the idea of the authors to propose:
 - NN for forecasting that brings together benefits of FCNN and RNN architectures and might
 be more efficient than NN presented by [1]
  
-**Pilot project v1.2.pdf** contains a detailed description of this work.
+**Pilot project v1.3.pdf** contains a detailed description of this work.
 
 **References**
 1. Michael Lingzhi L, Elliott Wolf, Daniel Wintz (2020): Duration-of-stay storage assignment
